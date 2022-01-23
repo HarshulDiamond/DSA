@@ -26,5 +26,5 @@ int main()
     }
 
 
-    cout<<"Without char dupli is:"<<b;
+    cout<<b;
 }
